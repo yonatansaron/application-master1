@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "914877767635",
+    "firebase_url": "https://mobification-yon-36312.firebaseio.com",
+    "project_id": "mobification-yon-36312",
+    "storage_bucket": "mobification-yon-36312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914877767635:android:8fc03401559fbe85039926",
+        "android_client_info": {
+          "package_name": "com.example.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914877767635-aher91igrp312vdm7cotn2k8d4tgkeg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.application",
+            "certificate_hash": "ea2ebee5f7f5e569d319de1f0a5c68d64003c9e8"
+          }
+        },
+        {
+          "client_id": "914877767635-ed1hhpp0qf8ac0836ebdim7t2lp37550.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuB0rWOc2CYxOdqFQbQgbcwk6JU6kcZ1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914877767635-ed1hhpp0qf8ac0836ebdim7t2lp37550.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

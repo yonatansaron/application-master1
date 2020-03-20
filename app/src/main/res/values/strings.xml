@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">application</string>
+    <string name="title_activity_dgte">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_map">Map</string>
+
+<string-array name="kilometers">
+    <item>pick distance</item>
+    <item>1 km</item>
+    <item>2 km</item>
+    <item>3 km</item>
+</string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
+
+
