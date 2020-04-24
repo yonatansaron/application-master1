@@ -42,7 +42,7 @@ public class PickActivity extends AppCompatActivity implements View.OnClickListe
 
         if(v == mapbutton)
         {
-            Intent i = new Intent(getBaseContext(),Activity_map.class);
+            Intent i = new Intent(getBaseContext(),MapActivity.class);
             startActivity(i);
         }
 
